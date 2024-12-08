@@ -1,0 +1,19 @@
+{
+  "name": "capstone",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@dotenvx/dotenvx": "^1.28.0",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "node-fetch": "^3.3.2"
+  }
+}
